@@ -1,0 +1,13 @@
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\esdra\Desktop\WEB 2020\DIO_exemplo.net\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

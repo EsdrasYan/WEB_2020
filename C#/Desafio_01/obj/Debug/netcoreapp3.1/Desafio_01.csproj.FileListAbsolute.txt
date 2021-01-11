@@ -1,0 +1,4 @@
+C:\Users\esdra\Desktop\WEB 2020\C#\Desafio_01\obj\Debug\netcoreapp3.1\Desafio_01.csprojAssemblyReference.cache
+C:\Users\esdra\Desktop\WEB 2020\C#\Desafio_01\obj\Debug\netcoreapp3.1\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\esdra\Desktop\WEB 2020\C#\Desafio_01\obj\Debug\netcoreapp3.1\Desafio_01.AssemblyInfo.cs
+C:\Users\esdra\Desktop\WEB 2020\C#\Desafio_01\obj\Debug\netcoreapp3.1\Desafio_01.csproj.CoreCompileInputs.cache
